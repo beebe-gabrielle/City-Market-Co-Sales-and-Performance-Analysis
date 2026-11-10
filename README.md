@@ -34,7 +34,7 @@ This analysis aims to translate raw sales data into actionable insights that wil
 
 ## Executive Sales & Performance Dashboard 
 
-<img src="Dashboard%205.png" width="900" alt="City Market Co. executive dashboard">
+<img src="Dashboard%20Image.png" width="900" alt="City Market Co. executive dashboard">
 
 <p></p>
 
