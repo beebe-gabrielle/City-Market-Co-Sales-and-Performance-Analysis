@@ -117,7 +117,7 @@ To ensure accurate analysis, raw transactional records were processed and valida
 
 ## Limitations
 
-* The data is fictional, so findings illustrate the analytical process and are not real business results.
+* The data is synthetic, so findings illustrate the analytical process and are not real business results.
   
 * The trend line is linear and shows the overall direction of revenue, not year-to-year changes in growth rate.
   
